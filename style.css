@@ -1,0 +1,17 @@
+* {
+   background-color: #4aa9c5;
+   color: #873e23;
+ }
+h2 {
+   background-color: beige;
+   color: brown;
+   margin-right: 400px;
+ }
+ img {
+   border-color: beige;
+   border-width: 10px;
+ }
+ #indexh {
+   background-color: beige;
+   margin-right: 600px;
+ }
